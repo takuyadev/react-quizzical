@@ -6,7 +6,7 @@ This project is deployed at the [link here.](https://takuyadev.github.io/carouse
 
 This project is part of the Solo Project section of the "The Front-End Developer Crash Course", where the student is required to finish the project on their own without extensive help.
 
-This project features a video game quiz game that challenges you to many of popular to niche questions that you may or may not know, and checks your answers at the end of the game.
+This application features a video game quiz game that challenges you to many of popular to niche questions that you may or may not know, and checks your answers at the end of the game.
 
 ### `Languages / Techstack`
 
