@@ -17,6 +17,12 @@ This application features a video game quiz game that challenges you to many of 
 - npm install (installs all dependencies)
 - npm start (initializes app)
 
+### `Resources`
+
+#### The Frontend Developer Career Path
+
+https://scrimba.com/learn/frontend
+
 ### `About Scrimba`
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
