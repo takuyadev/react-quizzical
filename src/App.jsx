@@ -1,5 +1,6 @@
 import React from 'react'
 import he from 'he'
+import './App.css';
 import Button from './components/Button'
 import Question from './components/Question'
 
