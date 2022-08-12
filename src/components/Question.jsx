@@ -46,7 +46,7 @@ Question.defaultProps = {
         },
         {
             answer: "question 4",
-            answer: false
+            result: false
         },
     ]
 }
