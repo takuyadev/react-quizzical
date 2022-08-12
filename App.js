@@ -40,7 +40,7 @@ export default function App(){
     
     const questionsElements = questions.map((question, i) =>{
         return ( 
-            <>
+            <div>
                 <Question 
                     key={i}
                     questionId={i}
@@ -68,7 +68,7 @@ export default function App(){
                     answers={question.answers} 
                     question={question.question} />
                     {questions.length !== i+1 && <hr/>}
-            </>
+            </div>
         )
     })
     
@@ -80,7 +80,7 @@ export default function App(){
         </div>
         
     const questionPage = 
-    <>
+    <div>
         <div className="question">
             {questionsElements}
         </div>
@@ -106,7 +106,7 @@ export default function App(){
                 }} text={showAnswer ? "Play again" : "Check Answer" }
             />
         </div>
-        </>
+        </div>
         
     
     React.useEffect(()=>{
