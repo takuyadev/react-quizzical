@@ -1,4 +1,4 @@
-# Carousel Vanilla Javscript
+# React Video Game Quizzical - Scrimba
 
 This project is deployed at the [link here.](https://takuyadev.github.io/carousel-vanilla-js-scrimba/)
 
