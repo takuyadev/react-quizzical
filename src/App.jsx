@@ -53,7 +53,7 @@ export default function App() {
                       return {
                         ...answer,
                         selected:
-                          event.target.id == i && id == index
+                          event.target.id === i && id === index
                             ? !answer.selected
                             : false
                       };
