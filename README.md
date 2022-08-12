@@ -1,6 +1,6 @@
 # React Video Game Quizzical - Scrimba
 
-This project is deployed at the [link here.](https://takuyadev.github.io/carousel-vanilla-js-scrimba/)
+This project is deployed at the [link here.](https://react-quizzical-scrimba.herokuapp.com/)
 
 ### `Summary`
 
